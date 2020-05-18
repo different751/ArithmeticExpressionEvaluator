@@ -2,10 +2,6 @@
 Author: Tyler Coy
 Date: 5/17/2020
 Technical Problem
-
-
-If there are any issues or errors please feel free to contact me 
-at tcdifferent751@gmail.com
 ***********************
 
 
