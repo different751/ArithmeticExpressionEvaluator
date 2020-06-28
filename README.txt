@@ -18,6 +18,12 @@ README.txt - This document contains information about the program.
 ************************************************************
 
 
+****** NOTES ******
+Scala version of this program is missing most of the error checks for user input
+and other errors that can occur. If you need error checks the C++ version is the one
+to use.
+
+
 
 ********* Program Description ***********
 The program is a calculator that takes text arithmetic expressions
