@@ -9,6 +9,8 @@ Technical Problem
 
 calculator.cpp - c++ source file containing the program for the arithmetic expression parser and evaluator
 
+main.scala - scala source file containing the program for the arithmetic expression parser and evaluator
+
 Makefile - make file to compile the calculator.cpp program
 
 README.txt - This document contains information about the program.
@@ -62,7 +64,7 @@ Expression and its Application to Create a Customizable
 Programming Language." ICSEA 2016 (2016): 285.
 
 
-********* HOW TO RUN ***********
+********* HOW TO RUN C++ ***********
 To run the program the user must first have a machine that
 can execute c++ programs. If using command line there is a
 provided makefile to compile for you. Otherwise visualStudio
@@ -76,6 +78,18 @@ point you can enter arithmetic expressions to be parsed and evaluated.
 You can also type TEST for a test suite to run or you can type EXIT to end
 the program.
 
+***** HOW TO RUN SCALA *****
+To run the program the user must first have a machine that
+can execute scala programs. If using command line compile the scala
+file with the scalac command. Then execute the program with "scala Main"
+
+Once the program is running you will be greeted with a message that
+says the calculator is starting. There will also be some instructions
+displayed. Then you are prompted to enter expressions. At this
+point you can enter arithmetic expressions to be parsed and evaluated.
+
+You can also type TEST for a test suite to run or you can type EXIT to end
+the program.
 
 
 ********* EXAMPLE EXPRESSIONS ***********
